@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Conciertos</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+
+    <div class="imagen">
+        <img src="./Imagen1.jpg" />
+    </div>
+
+    <div class="description">
+        <h1>Registro de Conciertos</h1>
+    </div>
+    
+
+    <header>
+        <div= class="contenido">
+
+          <div class="articles-area">
+            <form id="formulario">
+                <label class="label" for="concierto">Concierto</label>
+                <input type="text" name="concierto" id="concierto">
+
+                <label class="label" for="grupo">Grupo / Cantante</label>
+                <input type="text" name="grupo" id="grupo">
+
+                <label class="label" for="medio">Medio</label>
+                <select name="medio" id="medio">
+                    <option disabled selected>Seleccione una opción</option>
+                    <option value="Bluray">1. Bluray</option>
+                    <option value="DVD">2. DVD</option>
+                    <option value="CD">3. CD</option>
+                    <option value="Archivo">4. Archivo</option>
+                    <option value="noIndica">No Indica</option>
+                </select>
+
+                <label class="label" for="descripcion">Descripción</label>
+                <textarea name="descripcion" id="descripcion" cols="20" rows="3"></textarea>
+
+                <button class="limpia" type="submit" id="limpia">Limpia Formulario</button>
+                <button class="button" type="submit" id="agrega">Agrega Concierto</button>
+
+            </form>
+        </div>
+
+        <div class="imagen">
+            <img src="./Imagen2.jpg">
+        </div>
+
+    </div>
+    </header>
+
+    <main>
+    <p class="titulo">
+       Conciertos Registrados </p>
+        <section >
+            <table>
+                <thead>
+                    <tr>
+                        <th style="width: 350px;">CONCIERTO</th>
+                        <th style="width: 200px;">GRUPO / CANTANTE</th>
+                        <th style="width: 200px;">MEDIO</th>
+                        <th style="width: 200px;">DESCRIPCION</th>
+                        <th style="width: 200px;">ACCION</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody">
+                </tbody>
+            </table>
+        </br> 
+        </section>
+
+        <script src="./main.js"></script>
+
+    </main>
+
+
+    
+
+</html>
