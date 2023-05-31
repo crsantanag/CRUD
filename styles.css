@@ -8,21 +8,31 @@ body {
     background-color: rgb(230, 230, 230);
 }
 
-.imagen {
+.imagen1 {
     text-align: justify;
 }
 
-@media (max-width: 1280px) {
-.imagen {
-    display: none;
-    }
-}
-
-.imagen img {
+.imagen1 img {
     display: inline-block;
     max-width: 100%;
     vertical-align: middle;
     border-radius: 1%;
+}
+
+.imagen2 {
+    text-align: justify;
+}
+
+.imagen2 img {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+    border-radius: 1%;
+}
+@media (max-width: 768px) {
+    .imagen2 {
+        display: none;
+    }
 }
 
 .description {
@@ -33,7 +43,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    text-align: left;
+    text-align: center;
 }
 
 .articles-area {
