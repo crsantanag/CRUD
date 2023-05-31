@@ -12,7 +12,11 @@ body {
     text-align: justify;
 }
 
-
+@media (max-width: 768px) {
+.imagen {
+    display: none;
+    }
+}
 
 .imagen img {
     display: inline-block;
