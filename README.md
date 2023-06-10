@@ -1,4 +1,4 @@
-![Banner](./images/imagen1.jpg)
+![Banner](images/imagen1.jpg)
 # Título del proyecto
 
 CRUD con HTML, CSS y JavaScript
