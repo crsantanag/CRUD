@@ -44,11 +44,11 @@ cd CRUD
 
 ## Ejecutando las pruebas
 
-Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades del gestor de tareas.
+Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades del registrador de música.
 
 ### Analizar pruebas de extremo a extremo
 
-Puedes verificar que las tareas se creen correctamente, se puedan marcar como completadas y eliminarlas adecuadamente.
+Puedes verificar que los registros se creen correctamente, se puedan marcar como completadas y eliminarlas adecuadamente.
 
 ### Pruebas de estilo de codificación 
 
