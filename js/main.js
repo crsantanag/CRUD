@@ -142,7 +142,7 @@ function modificaLinea(identificador) {
   }
   else {
     enProcesoM = true
-    botonAgregar.innerText = "Modifica Concierto"
+    botonAgregar.innerText = "Modifica Música"
     identificadorDeLinea = identificador
 
   // Almacena el color actual del boton "Agrega / Modifica"
@@ -208,7 +208,7 @@ function modificaDatos(eventoClick) {
   document.getElementById("limpia").style.color = 'black'
   document.getElementById("agrega").style.backgroundColor = colorBoton
   botonLimpiar.innerText = 'Limpia Formulario'
-  botonAgregar.innerText = 'Agrega Concierto'
+  botonAgregar.innerText = 'Agrega Música'
 
   enProcesoM = false
   const formulario = document.getElementById('formulario')
@@ -223,7 +223,7 @@ if (enProcesoM === true || enProcesoE === true) {
 }
 else {
   enProcesoE = true
-  botonAgregar.innerText = "Elimina Concierto"
+  botonAgregar.innerText = "Elimina Música"
   identificadorDeLinea = identificador
 
 // Almacena el color actual del boton "Agrega / Modifica / Elimina"
@@ -272,7 +272,7 @@ function borraDatos (eventoClick) {
   document.getElementById("limpia").style.color = 'black'
   document.getElementById("agrega").style.backgroundColor = colorBoton
   botonLimpiar.innerText = 'Limpia Formulario'
-  botonAgregar.innerText = 'Agrega Concierto'
+  botonAgregar.innerText = 'Agrega Música'
 
   enProcesoE = false
   const formulario = document.getElementById('formulario')
