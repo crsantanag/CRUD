@@ -1,4 +1,4 @@
-![Banner](/images/imagen1.jpg)
+![Banner](/images/banner.jpg)
 # Registro de Conciertos
 
 CRUD con HTML, CSS y JavaScript
