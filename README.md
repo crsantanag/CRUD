@@ -5,7 +5,7 @@ CRUD con HTML, CSS y JavaScript
 
 ## Descripción
 
-Este proyecto es un gestor de tareas simple que permite a los usuarios crear, organizar y realizar un seguimiento de sus tareas diarias. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de las tareas.
+Este proyecto permite llevar un registro de la música del usuario, pudiendo crear, modificar y eliminar cada uno de éstos. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de la música.
 
 ## Insignias
 
@@ -31,7 +31,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 1. Clona este repositorio en tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario-github/nombre-repo.git
+git clone https://github.com/crsantanag/CRUD.git
 ```
 
 1. Navega hasta el directorio del proyecto.
