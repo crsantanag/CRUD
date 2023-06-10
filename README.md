@@ -1,5 +1,5 @@
 ![Banner](/images/banner.jpg)
-# Registro de Conciertos
+# Registro de Música
 
 CRUD con HTML, CSS y JavaScript
 
