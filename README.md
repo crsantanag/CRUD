@@ -5,7 +5,7 @@ CRUD con HTML, CSS y JavaScript
 
 ## Descripción
 
-Este proyecto permite llevar un registro de la música del usuario, pudiendo crear, modificar y eliminar cada uno de éstos. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de la música.
+Este proyecto permite llevar un registro de la música del usuario, pudiendo crear, modificar y eliminar cada uno de estos registros. Está desarrollado utilizando HTML, CSS y JavaScript con el uso del DOM y Local Storage para almacenar los datos de la música.
 
 ## Insignias
 
