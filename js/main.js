@@ -51,7 +51,7 @@ botonLimpiar.addEventListener("click", function (eventoClick) {
     document.getElementById("limpia").style.color = 'black'
     document.getElementById("agrega").style.backgroundColor = colorBoton
     botonLimpiar.innerText = 'Limpia Formulario'
-    botonAgregar.innerText = 'Agrega Concierto'
+    botonAgregar.innerText = 'Agrega Música'
   }
 
   enProcesoA = true
