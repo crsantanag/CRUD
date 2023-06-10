@@ -1,5 +1,5 @@
 ![Banner](/images/imagen1.jpg)
-# Título del proyecto
+# Registro de Conciertos
 
 CRUD con HTML, CSS y JavaScript
 
@@ -16,15 +16,15 @@ Este proyecto es un gestor de tareas simple que permite a los usuarios crear, or
 
 ![Captura de pantalla](./images/imagen3.jpg)
 
-## Inicio 🚀
+## Inicio
 
 Estas instrucciones te ayudarán a obtener una copia del proyecto y a ejecutarlo en tu máquina local para fines de desarrollo y prueba.
 
-### Pre-requisitos 📋
+### Pre-requisitos
 
 No se requieren instalaciones adicionales para ejecutar este proyecto, solo necesitarás un navegador web actualizado.
 
-### Instalación 🔧
+### Instalación
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
@@ -37,28 +37,28 @@ git clone https://github.com/tu-usuario-github/nombre-repo.git
 1. Navega hasta el directorio del proyecto.
 
 ```bash
-cd nombre-repo
+cd CRUD
 ```
 
 1. Abre el archivo `index.html` en tu navegador web.
 
-## Ejecutando las pruebas ⚙️
+## Ejecutando las pruebas
 
 Este proyecto no cuenta con pruebas automatizadas. Sin embargo, puedes probar manualmente todas las funcionalidades del gestor de tareas.
 
-### Analizar pruebas de extremo a extremo 🔩
+### Analizar pruebas de extremo a extremo
 
 Puedes verificar que las tareas se creen correctamente, se puedan marcar como completadas y eliminarlas adecuadamente.
 
-### Pruebas de estilo de codificación ⌨️
+### Pruebas de estilo de codificación 
 
 Asegúrate de mantener un código limpio y bien estructurado siguiendo las mejores prácticas de HTML, CSS y JavaScript.
 
-## Implementación 📦
+## Implementación
 
 Puedes implementar este proyecto en un servidor web o utilizarlo localmente sin necesidad de implementación adicional.
 
-## Construido con 🛠️
+## Construido con
 
 Herramientas utilizadas para crear el proyecto:
 
@@ -68,19 +68,19 @@ Herramientas utilizadas para crear el proyecto:
 * DOM - Manipulación del árbol de objetos del documento.
 * Local Storage - Almacenamiento de datos en el navegador.
 
-## Contribuir 🖇️
+## Contribuir
 
 Este proyecto es de código abierto y las contribuciones son bienvenidas. Puedes colaborar mejorando el diseño, agregando nuevas funcionalidades o corrigiendo errores. ¡Siéntete libre de enviar tus pull requests!
 
-## Licencia 📄
+## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.
 
-## Expresiones de gratitud 🎁
+## Expresiones de gratitud
 
 Este archivo readme se ha desarrollado utilizando como referencia los siguientes proyectos:
 
 * [template-readme-es](https://github.com/brayandiazc/template-readme-es) - creado por [Brayan Diaz C](https://github.com/brayandiazc)
 
 ---
-⌨ ️con ❤️ por [Tu nombre](https://github.com/tu-usuario-github) 😊
+⌨ ️Carlos Santana (https://github.com/crsantanag)
