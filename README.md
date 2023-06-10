@@ -34,13 +34,13 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 git clone https://github.com/crsantanag/CRUD.git
 ```
 
-1. Navega hasta el directorio del proyecto.
+2. Navega hasta el directorio del proyecto.
 
 ```bash
 cd CRUD
 ```
 
-1. Abre el archivo `index.html` en tu navegador web.
+3. Abre el archivo `index.html` en tu navegador web.
 
 ## Ejecutando las pruebas
 
